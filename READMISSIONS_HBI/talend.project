@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Project xmi:id="_80rTgII8Ee6T2dkcHv3YJA" label="READMISSIONS_HBI" description="" language="java" technicalLabel="READMISSIONS_HBI" author="_80rTgYI8Ee6T2dkcHv3YJA" productVersion="Talend Data Integration-7.3.1.20231012_0945-patch" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/mgurram789/TalendRepo.git&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DI" itemsRelationVersion="1.3" bigData="false">
+    <migrationTask xmi:id="_82n0QII8Ee6T2dkcHv3YJA" id="org.talend.repository.model.migration.CheckProductVersionMigrationTask" breaks="7.1.0" version="7.1.1"/>
+  </TalendProperties:Project>
+  <TalendProperties:User xmi:id="_80rTgYI8Ee6T2dkcHv3YJA" login="dev1@icphealth.com" firstName="Developer 1" lastName="security" type="DI" additionnalData="{}"/>
+  <TalendProperties:User xmi:id="_UL8U4II9Ee6gxf9_0JjU3g" login="dev2@icphealth.com" firstName="Dev2" lastName="2" type="DI" additionnalData="{}"/>
+  <TalendProperties:User xmi:id="_UL8U4YI9Ee6gxf9_0JjU3g" login="dev3@icphealth.com" firstName="Dev3" lastName="3" type="DI" additionnalData="{}"/>
+  <TalendProperties:User xmi:id="_UL8U4oI9Ee6gxf9_0JjU3g" login="dev4@icphealth.com" firstName="Dev" lastName="4" type="DI" additionnalData="{}"/>
+</xmi:XMI>
